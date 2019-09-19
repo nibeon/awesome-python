@@ -527,9 +527,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio.
 * Visual Studio Code
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - The official VSCode extension with rich support for Python.
+* [Code with Mu](https://codewith.mu) - Code with Mu: a simple Python editor for beginner programmers.
 * IDE
     * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
     * [spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
+    * [PyScripter](https://sourceforge.net/projects/pyscripter/) - PyScripter is an open-source Python Integrated Development Environment (IDE). Windows only.
+    * [Wing Python IDE](https://wingware.com) - Commercial Python IDE by Wingware. Has paid edition (Wing Pro) and free editions (Wing Personal and Wing 101).
 
 ## Email
 
@@ -628,6 +631,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [PyOpenGL](http://pyopengl.sourceforge.net/) - Python ctypes bindings for OpenGL and it's related APIs.
 * [PySDL2](https://pysdl2.readthedocs.io) - A ctypes based wrapper for the SDL2 library.
 * [RenPy](https://www.renpy.org/) - A Visual Novel engine.
+* [PyMunk](http://www.pymunk.org) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python. Perfect when you need 2d physics in your game, demo or other application.
+* [UPBGE](https://upbge.org) - UPBGE is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself.
 
 ## Geolocation
 
@@ -1207,6 +1212,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Sanic](https://github.com/channelcat/sanic) - Web server that's written to go fast.
 * [Vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
 * [Tornado](http://www.tornadoweb.org/en/latest/) - A Web framework and asynchronous networking library.
+* [Bottlepy](https://bottlepy.org) - Bottle is a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.
+* [Web.py](http://webpy.org) - web.py is a web framework for Python that is as simple as it is powerful. web.py is in the public domain; you can use it for whatever purpose with absolutely no restrictions.
+* [CherryPy](https://cherrypy.org) - A Minimalist Python Web Framework
 
 ## WebSocket
 
